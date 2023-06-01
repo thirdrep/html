@@ -5,6 +5,31 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.titlebar{
+  font-weight: bold;
+  text-align: center;
+  font-size: 50px;
+  margin: 5px;
+  padding: 0px;
+}
+
+.menuc1{
+  font-weight: bold;
+}
+
+.menuc2{
+  text-decoration: underline;
+}
+
+.menuc4{
+  font-style: italic;
+}
+
+.bigimg{
+  max-width: 100%;
+  height: auto;
+}
+
 .topnav {
   overflow: hidden;
   background-color: #333;
