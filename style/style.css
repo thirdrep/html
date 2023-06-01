@@ -3,7 +3,16 @@ body {
   background-color: black;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
-  
+
+}
+
+.linkimg{
+  max-width: 20%;
+  height:auto;
+}
+
+.plateimg{
+  max-width: 75%;
 }
 
 .titlebar{
@@ -16,6 +25,7 @@ body {
 
 .menuc1{
   font-weight: bold;
+  font-size: 30px;
 }
 
 .menuc2{
@@ -24,6 +34,8 @@ body {
 
 .menuc4{
   font-style: italic;
+  font-size: 25px;
+  background-color: #b02c07;
 }
 
 .bigimg{
